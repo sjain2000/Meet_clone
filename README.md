@@ -5,6 +5,9 @@ Video conference website that lets you stay in touch with all your friends.
 Developed with ReactJS, Node.js, SocketIO.
 
 
+# Demo
+Try video meeting here https://masterclonemeet.azurewebsites.net
+
 # Features
 - Is 100% free and open-source
 - No account needed
