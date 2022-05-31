@@ -1,4 +1,4 @@
-# Video Meeting
+# Video Conference
 
 Video conference website that lets you stay in touch with all your friends.
 
