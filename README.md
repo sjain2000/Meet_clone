@@ -4,6 +4,8 @@ Video conference website that lets you stay in touch with all your friends.
 
 Developed with ReactJS, Node.js, SocketIO.
 
+![Demo Image](https://github.com/sjain2000/meet_clone/blob/master/website_image.png)
+
 
 # Demo
 Try video meeting here https://masterclonemeet.azurewebsites.net
