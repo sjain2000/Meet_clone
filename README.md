@@ -11,7 +11,7 @@ Developed with ReactJS, Node.js, SocketIO.
 Try video meeting here https://masterclonemeet.azurewebsites.net
 
 # Features
-- Is 100% free and open-source
+- 100% free and open-source
 - No account needed
 - Unlimited users
 - Messaging chat and video streaming in real-time
@@ -23,6 +23,18 @@ Try video meeting here https://masterclonemeet.azurewebsites.net
 - Text chat
 - Multi-participants
 - Mute individual participant
+
+# Azure Deployment
+
+1. Create a resource in App Services
+2. I choose ```ASP.NET V4.8``` and windows for deployment
+3. Navigating to Advanced tools 
+4. In ```Kudu Services``` choose cmd
+5. Go to this path ```C:\home\site\wwwroot>``` 
+6. Using npm build, Create the build folder
+7. Drag and drop the build folder in wwwroot
+
+
 
 # Installation & Setup
 
