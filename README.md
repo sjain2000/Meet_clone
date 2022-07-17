@@ -8,7 +8,7 @@ Developed with ReactJS, Node.js, SocketIO.
 
 
 # Demo
-Try video meeting here https://masterclonemeet.azurewebsites.net
+Try video meeting here https://meet-sjain-f4e60c.netlify.app/
 
 # Features
 - 100% free and open-source
